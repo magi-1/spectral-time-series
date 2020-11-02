@@ -1,4 +1,5 @@
-Statistical tools for spectral analysis of multivariate time series. 
+Generate statioanry VARMA(p,q) models with random coefficients.
+
 
 Keywords: VARMA, spectral density, graphical models, statespace representation, spectral precision
 
